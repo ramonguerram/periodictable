@@ -1,0 +1,78 @@
+h4{
+    float: left;
+    color: blue;
+}  
+ .borde{
+    border:50px;
+} 
+
+p{
+    font-family: Calibri;
+    font-size: 10px;
+    text-align: center;
+}
+
+h1{
+  font-size: 30px;
+  color: red;
+}
+
+body{
+  font-family:Comic;
+  
+}
+
+
+
+   .verde{
+    background: #A3E4D7;
+   }
+
+table{
+border:hidden;
+    
+
+}
+.lineatabla{
+        border-color:black;
+        } 
+
+
+.rojo{
+  background: #C89BBF;
+  }             
+.pantano{
+ background: #EC89D9;
+             }
+.purpura{
+background: #DDB767;
+     }
+
+.lant{
+  background: #F4B676;
+     }
+
+.actinidos{
+          background: #F1948A; 
+        }    
+
+.olive{
+      background: #C6E078;
+      
+   }   
+
+.gris{
+     background:#F2CF2F;
+   } 
+
+.green{
+      background: #85AA6B;  
+     } 
+
+.amarillo{
+         background: #B0C7DF;  
+        }  
+
+.azulclaro{
+          background:#7AB4CE;
+         } 
